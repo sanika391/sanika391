@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Chavan</h1>
 <h3 align="center">Bringing a global perspective to every project, I thrive on fostering collaboration across borders and leading teams towards impactful innovation.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika391&label=Profile%20views&color=0e75b6&style=flat" alt="sanika391" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanika391" alt="sanika391" /></a> </p>
@@ -22,6 +20,8 @@
 - 📫 How to reach me **sanikachavan1806@gmail.com**
 
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems, and I once led an all-girls team to win a national agritech competition!**
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

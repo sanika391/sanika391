@@ -1,3 +1,5 @@
+![logo](https://github.com/sanika391/sanika391/blob/main/WhatsApp%20Image%202024-06-03%20at%207.00.21%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sanika Chavan</h1>
 <h3 align="center">Bringing a global perspective to every project, I thrive on fostering collaboration across borders and leading teams towards impactful innovation.</h3>
 

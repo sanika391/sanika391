@@ -1,46 +1,90 @@
-![logo](https://github.com/sanika391/sanika391/blob/main/WhatsApp%20Image%202024-06-03%20at%207.00.21%20PM.jpeg)
+![Sanika Chavan](https://github.com/sanika391/sanika391/blob/main/WhatsApp%20Image%202024-06-03%20at%207.00.21%20PM.jpeg)
 
-<h1 align="center">Hi 👋, I'm Sanika Chavan</h1>
-<h3 align="center">Bringing a global perspective to every project, I thrive on fostering collaboration across borders and leading teams towards impactful innovation.</h3>
+<h1 align="center">Hello! I'm Sanika Chavan 👋</h1>
+<h3 align="center">A Passionate Computer Science Engineering Student with a Global Perspective 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika391&label=Profile%20views&color=0e75b6&style=flat" alt="sanika391" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanika391&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanika391" alt="sanika391" /></a> </p>
+<h3 align="left">Achievements:</h3>
+<ul>
+  <li>🏆 WINNER OF <a href="https://developers.google.com/careers/solution-challenge">Google Solution Challenge 2024</a></li>
+  <li>🥇 1st Place - Best Innovation Team at <a href="https://saeindia.org/tifan-2024">TIFAN 2024 (SAE India)</a></li>
+  <li>🏅 4th Place at <a href="https://www.revahacks.com/">REVA Hacks 2024</a> for immersive technology innovation</li>
+  <li>🎤 Delivered a session titled "Seeds of Success: How I Grew into a DevOps" at the <a href="https://aws.amazon.com/user-groups/women-in-tech-nepal/">AWS User Group Women in Tech Nepal</a> event</li>
+  <li>📜 Received Letters of Appreciation from Prof. Narnia Bohler Muller, Sibulele Poswayo, and Kuladeep Jangam</li>
+</ul>
 
-<p align="left"> <a href="https://twitter.com/@sanika391" target="blank"><img src="https://img.shields.io/twitter/follow/@sanika391?logo=twitter&style=for-the-badge" alt="@sanika391" /></a> </p>
+![WhatsApp Image 2024-07-20 at 8 48 50 PM](https://github.com/user-attachments/assets/eb653253-b7be-4bf2-90f8-2f550707c7bf)
 
-- 🔭 I’m currently working on [Spoon Share](https://github.com/shuence/SpoonShare)
 
-- 🌱 I’m currently learning **Flutter, Product Management and machine learning techniques and how to integrate sustainable practices into tech solutions.**
+<h3 align="left">About Me:</h3>
+<p>
+  I'm a Computer Science Engineering student at Deogiri Institute of Engineering and Management Studies with a keen interest in technology and innovation. My passion lies in leveraging technology to solve real-world problems and drive impactful change. I thrive on leading teams, collaborating internationally, and bringing creative ideas to life through tech.
+</p>
 
-- 🤝 I’m looking for help with [SpoonShare app to reach more communities.](https://github.com/sanika391/SpoonShare)
+- 🔭 I’m currently working on [**SpoonShare**](https://github.com/shuence/SpoonShare), a Flutter-based app for food-sharing with Firebase and Google Maps integration.
+- 🌱 I’m learning more about **Flutter, Product Management, and machine learning techniques**.
+- 🤝 I’m looking for opportunities to collaborate on projects that make a positive impact, especially in tech solutions that foster sustainability and innovation.
+- 📫 Reach me at **[sanikachavan1806@gmail.com](mailto:sanikachavan1806@gmail.com)**
 
-- 👨‍💻 All of my projects are available at [sanika-chavan.vercel.app](sanika-chavan.vercel.app)
-
-- 💬 Ask me about **leading international collaborations at the G20, my passion for hackathons, and my leadership journey.**
-
-- 📫 How to reach me **sanikachavan1806@gmail.com**
-
-- ⚡ Fun fact **I love blending technology and creativity to solve real-world problems, and I once led an all-girls team to win a national agritech competition!**
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sanika391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanika391" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanika-chavan-52457b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika-chavan-52457b236" height="30" width="40" /></a>
-<a href="https://kaggle.com/sanika391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanika391" height="30" width="40" /></a>
-<a href="https://instagram.com/sanika391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanika391" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanikachavan7846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanikachavan7846" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/diet_1521" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="diet_1521" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanikachavan1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanikachavan1806" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanika3911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanika3911" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanikachar62z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanikachar62z" height="30" width="40" /></a>
-<a href="https://discord.gg/sanika4902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanika4902" height="30" width="40" /></a>
+<h3 align="left">Connect with Me:</h3>
+<p>
+  <a href="https://twitter.com/@sanika391" target="_blank"><img src="https://img.shields.io/twitter/follow/@sanika391?logo=twitter&style=for-the-badge" alt="twitter" /></a>
+  <a href="https://linkedin.com/in/sanika-chavan-52457b236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sanika%20Chavan-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://kaggle.com/sanika391" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Sanika%20Chavan-blue?style=for-the-badge&logo=kaggle" alt="kaggle" /></a>
+  <a href="https://instagram.com/sanika391" target="_blank"><img src="https://img.shields.io/badge/Instagram-sanika391-blue?style=for-the-badge&logo=instagram" alt="instagram" /></a>
+  <a href="https://www.youtube.com/c/sanikachavan7846" target="_blank"><img src="https://img.shields.io/badge/YouTube-Sanika%20Chavan-blue?style=for-the-badge&logo=youtube" alt="youtube" /></a>
+  <a href="https://www.codechef.com/users/diet_1521" target="_blank"><img src="https://img.shields.io/badge/CodeChef-diet_1521-blue?style=for-the-badge&logo=codechef" alt="codechef" /></a>
+  <a href="https://www.hackerrank.com/sanikachavan1806" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-sanikachavan1806-blue?style=for-the-badge&logo=hackerrank" alt="hackerrank" /></a>
+  <a href="https://www.leetcode.com/sanika3911" target="_blank"><img src="https://img.shields.io/badge/LeetCode-sanika3911-blue?style=for-the-badge&logo=leetcode" alt="leetcode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sanikachar62z" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-sanikachar62z-blue?style=for-the-badge&logo=geeksforgeeks" alt="geeksforgeeks" /></a>
+  <a href="https://discord.gg/sanika4902" target="_blank"><img src="https://img.shields.io/badge/Discord-sanika4902-blue?style=for-the-badge&logo=discord" alt="discord" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/php/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
+</p>
+
+<h3 align="left">Recent Projects:</h3>
+<ul>
+  <li><a href="https://github.com/shuence/SpoonShare">SpoonShare</a>: A Flutter-based app for food-sharing with features like Firebase integration and Google Maps API</li>
+  <li><a href="https://github.com/sanika391/Automatic-Multi-Vegetable-Transplantor">Automatic Multi Vegetable Transplantor</a>: An Arduino-based solution with WhatsApp API and QR Code Scanner integration</li>
+  <li><a href="https://github.com/sanika391/AR-VR-Military-Training">AR/VR Live Training of Military Troops</a>: Utilized Unreal Engine 5 and GeoSpatial Technology for immersive training</li>
+  <li><a href="https://github.com/sanika391/Vital-Image-Analytics">Vital Image Analytics</a>: A Streamlit application for medical image analysis using Google's Generative AI capabilities</li>
+</ul>
+
+<h3 align="left">Education:</h3>
+<p>
+  <b>B.Tech in Computer Science Engineering</b> - Deogiri Institute of Engineering and Management Studies (CGPA: 8.34, November 2021 - June 2025) <br>
+  <b>HSC in Computer Science</b> - Sant Bhagwanbaba Kala Mahavidyalaya (Percentage: 89%, September 2019 - March 2021)
+</p>
+
+<h3 align="left">Leadership Roles:</h3>
+<ul>
+  <li>Project Manager & Mentor at <a href="https://github.com/girlscript">GirlScript Summer of Code 2024</a></li>
+  <li>Event Management Lead at <a href="https://www.linkedin.com/company/gdscdiems/">GDSC DIEMS</a></li>
+  <li>Event Lead at <a href="https://www.womentechmakers.com/">Women Techmaker Community</a></li>
+  <li>Liaison Officer for <a href="https://g20.org/">G20|W20</a> - Govt. Of Maharashtra</li>
+</ul>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika391&show_icons=true&locale=en&layout=compact" alt="sanika391" /></p>
 

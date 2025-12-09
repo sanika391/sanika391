@@ -18,17 +18,6 @@
 
 ![WhatsApp Image 2024-07-20 at 8 48 50 PM](https://github.com/user-attachments/assets/eb653253-b7be-4bf2-90f8-2f550707c7bf)
 
-
-<h3 align="left">About Me:</h3>
-<p>
-  I'm a Computer Science Engineering student at Deogiri Institute of Engineering and Management Studies with a keen interest in technology and innovation. My passion lies in leveraging technology to solve real-world problems and drive impactful change. I thrive on leading teams, collaborating internationally, and bringing creative ideas to life through tech.
-</p>
-
-- 🔭 I’m currently working on **SpoonShare**, a Flutter-based app for food-sharing with Firebase + Google Maps.
-- 🌱 Learning: **Flutter, Product Management, Machine Learning techniques**
-- 🤝 Looking to collaborate on impactful tech solutions.
-- 📫 Reach me at **sanikachavan1806@gmail.com**
-
 # 💼 Experience
 
 ### ⭐ **AI Engineer — IBM**  

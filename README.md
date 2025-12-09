@@ -1,7 +1,7 @@
 <img src="https://github.com/sanika391/sanika391/blob/main/WhatsApp%20Image%202024-06-03%20at%207.00.21%20PM.jpeg">
 
 <h1 align="center">Hello! I'm Sanika Chavan 👋</h1>
-<h3 align="center">A Passionate Computer Science Engineering Student with a Global Perspective 🌍</h3>
+<h3 align="center">AI Engineer @ IBM | Global Winner | Speaker | Passionate Technologist with a Global Perspective 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanika391&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -29,16 +29,12 @@
 - 🤝 Looking to collaborate on impactful tech solutions.
 - 📫 Reach me at **sanikachavan1806@gmail.com**
 
----
-
 # 💼 Experience
 
 ### ⭐ **AI Engineer — IBM**  
 **Bengaluru | Feb 2025 – Present**  
 - Working on enterprise-grade GenAI + RAG systems for automation and intelligent workflows.  
 - Designing and deploying scalable AI microservices using LLMs for real-world enterprise clients.  
-
----
 
 ### ⭐ **AI/ML Engineer — Pine Labs (Plural Product Team)**  
 **Bengaluru | Feb 2025 – Present**  
@@ -47,15 +43,11 @@
 - Optimized MAF/GST/AOA/MOA document pipelines to **98–99% accuracy** using transformers + regex.  
 - Integrated AI workflows into Go/Python microservices deployed on **AWS Kubernetes**.
 
----
-
 ### ⭐ **Artificial Intelligence Intern — AppsForBharat**  
 **Bengaluru | Aug – Nov 2024**  
 - Built and deployed **AI Guruji Chatbot** with thousands of daily users.  
 - Designed high-accuracy RAG pipelines achieving **95–97% context precision**.  
 - Developed backend modules in Go + Tencent Cloud for low-latency AI features.
-
----
 
 <h3 align="left">Connect with Me:</h3>
 <p>
@@ -70,8 +62,6 @@
   <a href="https://auth.geeksforgeeks.org/user/sanikachar62z" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-sanikachar62z-blue?style=for-the-badge&logo=geeksforgeeks" /></a>
   <a href="https://discord.gg/sanika4902" target="_blank"><img src="https://img.shields.io/badge/Discord-sanika4902-blue?style=for-the-badge&logo=discord" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -93,8 +83,6 @@
   <a href="https://www.w3schools.com/php/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" /></a>
 </p>
 
----
-
 <h3 align="left">Recent Projects:</h3>
 <ul>
   <li><a href="https://github.com/shuence/SpoonShare">SpoonShare</a>: Flutter-based app for food-sharing with Google Maps + Firebase</li>
@@ -103,16 +91,12 @@
   <li><a href="https://github.com/sanika391/Vital-Image-Analytics">Vital Image Analytics</a>: Streamlit + Generative AI for medical imaging</li>
 </ul>
 
----
-
 <h3 align="left">Education:</h3>
 <p>
   <b>B.Tech in Computer Science Engineering</b>  
   Deogiri Institute of Engineering and Management Studies  
   <b>CGPA: 8.34</b> (Nov 2021 - June 2025)
 </p>
-
----
 
 <h3 align="left">Leadership Roles:</h3>
 <ul>
@@ -122,6 +106,3 @@
   <li>Liaison Officer – G20 | W20 (Govt. of Maharashtra)</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika391&show_icons=true&locale=en&layout=compact" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanika391&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanika391" /></p>

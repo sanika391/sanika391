@@ -25,6 +25,8 @@
 - Working on enterprise-grade GenAI + RAG systems for automation and intelligent workflows.  
 - Designing and deploying scalable AI microservices using LLMs for real-world enterprise clients.  
 
+---
+
 ### ⭐ **AI/ML Engineer — Pine Labs (Plural Product Team)**  
 **Bengaluru | Feb 2025 – Present**  
 - Built a GenAI onboarding engine reducing merchant TAT from **2–3 days → under 5 minutes**.  
@@ -32,11 +34,14 @@
 - Optimized MAF/GST/AOA/MOA document pipelines to **98–99% accuracy** using transformers + regex.  
 - Integrated AI workflows into Go/Python microservices deployed on **AWS Kubernetes**.
 
+---
+
 ### ⭐ **Artificial Intelligence Intern — AppsForBharat**  
 **Bengaluru | Aug – Nov 2024**  
 - Built and deployed **AI Guruji Chatbot** with thousands of daily users.  
 - Designed high-accuracy RAG pipelines achieving **95–97% context precision**.  
 - Developed backend modules in Go + Tencent Cloud for low-latency AI features.
+
 
 <h3 align="left">Connect with Me:</h3>
 <p>
